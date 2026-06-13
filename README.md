@@ -1,1 +1,2 @@
-# Waldo Project
+# Waldo Project - An Odin Project
+
